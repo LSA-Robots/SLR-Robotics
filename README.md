@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/slr-robotics-logo.svg" alt="SLR Robotics logo" width="380">
+
 # SLR ROBOTICS
 ### Santiago Lacoste | Robotics & Engineering
 
